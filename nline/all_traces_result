@@ -1,0 +1,16 @@
+gcc_trace2.dpc.gz
+Simulation complete. Instructions retired: 3099757 Cycles elapsed: 9353590 IPC: 0.331398
+GemsFDTD_trace2.dpc.gz
+Simulation complete. Instructions retired: 3099758 Cycles elapsed: 900911 IPC: 3.440693
+lbm_trace2.dpc.gz
+Simulation complete. Instructions retired: 3099758 Cycles elapsed: 2930924 IPC: 1.057604
+leslie3d_trace2.dpc.gz
+Simulation complete. Instructions retired: 3099754 Cycles elapsed: 3146232 IPC: 0.985227
+libquantum_trace2.dpc.gz
+Simulation complete. Instructions retired: 3099757 Cycles elapsed: 976181 IPC: 3.175392
+mcf_trace2.dpc.gz
+Simulation complete. Instructions retired: 3099757 Cycles elapsed: 8915035 IPC: 0.347700
+milc_trace2.dpc.gz
+Simulation complete. Instructions retired: 3099756 Cycles elapsed: 3160903 IPC: 0.980655
+omnetpp_trace2.dpc.gz
+Simulation complete. Instructions retired: 3099755 Cycles elapsed: 1554844 IPC: 1.993612
